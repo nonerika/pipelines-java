@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yasunaga-naoy/pipeline-test/_apis/build/status/nonerika.pipelines-java?branchName=main)](https://dev.azure.com/yasunaga-naoy/pipeline-test/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
