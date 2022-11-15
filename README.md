@@ -40,3 +40,11 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+マイクロソフトおよび共同作成者は、マイクロソフトのドキュメントおよびその他のコンテンツに対するライセンスをお客様に付与します。 クリエイティブ・コモンズ 表示 4.0 国際パブリック・ライセンスの下でこのリポジトリで、 LICENSEファイルを参照し、MITライセンスの下のリポジトリ内の任意のコードにライセンスを付与するには、LICENSE-CODEファイルを参照してください。
+
+マイクロソフト、Windows、マイクロソフト Azure、および/またはドキュメントで参照されているその他のマイクロソフト製品およびサービス は、米国およびその他の国における Microsoft の商標または登録商標です。 このプロジェクトのライセンスは、マイクロソフトの名前、ロゴ、または商標を使用する権利をお客様に付与するものではありません。 マイクロソフトの一般的な商標ガイドラインは、http://go.microsoft.com/fwlink/?LinkID=254653 にあります。
+
+プライバシー情報は、https://privacy.microsoft.com/en-us/
+
+マイクロソフトおよび共同作成者は、それぞれの著作権、特許、および または商標、黙示的、禁反言、またはその他の方法によるもの。
