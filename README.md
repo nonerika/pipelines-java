@@ -14,6 +14,16 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+このプロジェクトは、貢献と提案を歓迎します。ほとんどの投稿では、 コントリビューターライセンス契約(CLA)は、あなたが私たちに付与する権利があり、
+実際に付与することを宣言しています あなたの投稿を使用する権利。詳しくは、https://cla.microsoft.com をご覧ください。
+
+プルリクエストを送信すると、CLAボットはあなたが提供する必要があるかどうかを自動的に判断します。
+CLAであり、PRを適切に装飾します(ラベル、コメントなど)。指示に従ってください ボットによって提供されます。
+これは、CLAを使用してすべてのリポジトリで一度だけ行う必要があります。
+
+このプロジェクトでは、マイクロソフト オープンソース行動規範を採用しています。 
+詳細については、行動規範に関するFAQまたは 追加の質問やコメントがある場合はopencode@microsoft.comに連絡してください。
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
